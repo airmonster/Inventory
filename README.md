@@ -2,6 +2,8 @@
 
 Resource of air pollutant emission inventory. Enjoy it~
 
+![QR Code](https://github.com/airmonster/Inventory/raw/master/images/qrcode.png)
+
 ####DynaLTO   
 The dynamic LTO emission model for airports.   
 https://github.com/airmonster/DynaLTO   
